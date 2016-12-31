@@ -1,4 +1,4 @@
 # hello-world
-First repo on my Github adventure
+The first repo in my Github adventure
 
-Learning the Ropes of Github
+Learning the ropes of Github
